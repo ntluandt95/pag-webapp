@@ -1,0 +1,18 @@
+{
+    "farms":[{
+        "id": 1,
+        "name" : "farm AAA"
+    },
+    {
+        "id": 2,
+        "name" : "farm BBB"
+    }],
+    "fields":[{
+        "id": 1,
+        "name" : "field AAA"
+    },
+    {
+        "id": 2,
+        "name" : "field BBB"
+    }]
+}
